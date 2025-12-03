@@ -8,7 +8,7 @@ http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-id="Palestine Mubasher" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="General", Palestine Mubasher
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="Radio Al Balad" tvg-logo="" group-title="Radio", Radio Al Balad
+#EXTINF:-1 tvg-id="Radio Al Balad" tvg-logo="http://sradiospush-10741.kxcdn.com/uploads/fm_643.jpg" group-title="Radio", Radio Al Balad
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="Watar TV" tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" group-title="General", Watar TV
 http://htvint.mada.ps:8889/orient/index.m3u8
